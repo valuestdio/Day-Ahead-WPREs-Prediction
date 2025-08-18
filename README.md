@@ -7,5 +7,9 @@ Wind power ramp events (WPREs)—sudden, large-magnitude changes in wind generat
 pip install -r requirements.txt
 ```
 2.The datasets can be obtained from SDWPF and GEFcom2014
+
+3.Run dataload.py to generate Train, Val and Test sets in Temporal File
+
+4.Run Run.py file to train and test the model
 # Appendix 
 Appendix can be found in folder: Appendix
