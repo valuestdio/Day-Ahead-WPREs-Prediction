@@ -8,4 +8,4 @@ pip install -r requirements.txt
 ```
 2.The datasets can be obtained from SDWPF and GEFcom2014
 # Appendix 
-Appendix can be found in folder:appendix
+Appendix can be found in folder: Appendix
