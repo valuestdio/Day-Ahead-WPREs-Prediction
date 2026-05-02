@@ -16,3 +16,15 @@ pip install -r requirements.txt
 For the code of EVDL model you can see Hiformer for the details (https://github.com/valuestdio/Hiformer)
 # Appendix 
 Appendix can be found in folder: Appendix
+# Citation
+If you find this repo helpful, please cite our paper.
+```bash
+@article{11419886,
+  author={Wan, Chongyang and Luo, Yuan and Wu, Weimin and Hatziargyriou, Nikos D. and Lei, Shunbo},
+  journal={IEEE Transactions on Sustainable Energy}, 
+  title={Day-Ahead Wind Power Ramp Events Prediction with Extreme-Value–Driven Learning and Confidence-Aware Detection}, 
+  year={2026}}
+```
+# Contact
+If you have any questions or want to use the code, feel free to contact:
+Chongyang Wan(chongyangwan@link.cuhk.edu.cn)
